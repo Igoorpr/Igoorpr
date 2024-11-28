@@ -180,21 +180,36 @@ This profile was created to showcase some of the projects I have developed. I am
 ### 📊 Statistics
 
 <!--VERIFICAR ESSA PARTE -->
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Igoorpr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
-  />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&locale=en" 
-  />
-</p>
+<table>
+  <tr style="border: none;">
+    <td style="border: none;">
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=Igoorpr&show_icons=true&theme=dark&title_color=4169E1&icon_color=ADD8E6"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=Igoorpr&show_icons=true&title_color=4169E1&icon_color=ADD8E6"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api?username=Igoorpr&show_icons=true&title_color=4169E1&icon_color=ADD8E6" />
+      </picture>
+    </td>
+    <td style="border: none;">
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Igoorpr&layout=compact&theme=dark&title_color=4169E1"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Igoorpr&layout=compact&title_color=4169E1"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igoorpr&layout=compact&title_color=4169E1" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 <!--
 **Your GitHub profile.
