@@ -4,7 +4,7 @@
 
 I am a software developer with a focus on back-end development, originally from Brazil, and I am constantly seeking to enhance my knowledge by applying best practices and utilizing the latest technologies in the market.
 
-This profile was created to showcase some of the projects I have developed. I am available for connections and conversations on [LinkedIn](url).
+This profile was created to showcase some of the projects I have developed. I am available for connections and conversations on [LinkedIn](https://www.linkedin.com/in/igorpalharesr/).
 
 ---
 
