@@ -184,15 +184,15 @@ This profile was created to showcase some of the projects I have developed. I am
     <td style="border: none; width: 50%; padding: 0 10px; text-align: center;">
       <picture>
         <source
-          srcset="https://github-readme-stats.vercel.app/api?username=Igoorpr&show_icons=true&theme=dark&title_color=4169E1&icon_color=ADD8E6&v={{timestamp}}"
+          srcset="https://github-readme-stats.vercel.app/api?username=Igoorpr&show_icons=true&theme=dark&title_color=4169E1&icon_color=ADD8E6&v=1"
           media="(prefers-color-scheme: dark)"
         />
         <source
-          srcset="https://github-readme-stats.vercel.app/api?username=Igoorpr&show_icons=true&title_color=4169E1&icon_color=ADD8E6&v={{timestamp}}"
+          srcset="https://github-readme-stats.vercel.app/api?username=Igoorpr&show_icons=true&title_color=4169E1&icon_color=ADD8E6&v=1"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
         <img 
-          src="https://github-readme-stats.vercel.app/api?username=Igoorpr&show_icons=true&title_color=4169E1&icon_color=ADD8E6&v={{timestamp}}"
+          src="https://github-readme-stats.vercel.app/api?username=Igoorpr&show_icons=true&title_color=4169E1&icon_color=ADD8E6&v=1"
           alt="GitHub Stats"
           style="max-width: 100%; height: auto;"
         />
@@ -201,15 +201,15 @@ This profile was created to showcase some of the projects I have developed. I am
     <td style="border: none; width: 50%; padding: 0 10px; text-align: center;">
       <picture>
         <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Igoorpr&layout=compact&title_color=4169E1&theme=dark&v={{timestamp}}"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Igoorpr&layout=compact&title_color=4169E1&theme=dark&v=1"
           media="(prefers-color-scheme: dark)"
         />
         <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Igoorpr&layout=compact&title_color=4169E1&theme=light&v={{timestamp}}"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Igoorpr&layout=compact&title_color=4169E1&theme=light&v=1"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
         <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igoorpr&layout=compact&title_color=4169E1&theme=dark&v={{timestamp}}"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igoorpr&layout=compact&title_color=4169E1&theme=dark&v=1"
           alt="Top Languages"
           style="max-width: 100%; height: auto;"
         />
