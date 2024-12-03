@@ -179,7 +179,6 @@ This profile was created to showcase some of the projects I have developed. I am
 
 ### 📊 Statistics
 
-<!--VERIFICAR ESSA PARTE -->
 <table>
   <tr style="border: none;">
     <td style="border: none;">
@@ -198,14 +197,14 @@ This profile was created to showcase some of the projects I have developed. I am
     <td style="border: none;">
       <picture>
         <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Igoorpr&layout=compact&theme=dark&title_color=4169E1"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Igoorpr&layout=compact&title_color=4169E1&theme=dark"
           media="(prefers-color-scheme: dark)"
         />
         <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Igoorpr&layout=compact&title_color=4169E1"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Igoorpr&layout=compact&title_color=4169E1&theme=light"
+          media="(prefers-color-scheme: light)"
         />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igoorpr&layout=compact&title_color=4169E1" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igoorpr&layout=compact&title_color=4169E1&theme=dark" />
       </picture>
     </td>
   </tr>
